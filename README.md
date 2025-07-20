@@ -17,8 +17,3 @@
 - **Database**: MongoDB
 - **Authentication**: JWT
 
-## How to Run
-
-1. Clone the repo
-2. Install dependencies in both `frontend` and `backend` folders
-3. Start backend:
